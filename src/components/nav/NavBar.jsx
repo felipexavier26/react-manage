@@ -4,7 +4,7 @@ import Home from '../pages/Home'
 import Company from '../pages/Company'
 import Contact from '../pages/Contact'
 import NewProject from '../pages/NewProject'
-import Project from '../pages/project';
+import Project from '../pages/Project';
 import ProjectEdit from '../pages/ProjectEdit';
 
 
