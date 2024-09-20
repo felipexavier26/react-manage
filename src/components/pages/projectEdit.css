@@ -1,0 +1,95 @@
+.project-detalhs{
+    padding: 2em;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 100px;
+}
+.banner-services{
+    margin-top: 10px;
+}
+.container-button{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.services-button{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px ;
+    border-bottom: 1px solid #7a7a7a;
+}
+.form_control-services{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+.project-detalhs h1,
+.project-detalhs h2,
+.project-detalhs p{
+    margin-bottom: 0.5em;
+}
+
+.project-detalhs span{
+    font-weight: bold;
+}
+
+
+.container-project-edit {
+    border-bottom: 1px solid #7a7a7a;
+    margin-bottom: 1.2em;
+    padding-bottom: 1.2em;
+}
+
+.btnEdit {
+    background-color: #222;
+    color: #fff;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5;
+    border-radius: 5px;
+}
+
+.btnEdit:hover {
+    color: #ffbb33;
+}
+
+.form_control{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+.form_control label{
+    margin-bottom: 0.6em;
+    font-weight: bold;
+}
+.form_control input{
+    padding: 0.7em;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-top: 1px;
+    margin-bottom: 10px;
+
+}
+.form_control input::placeholder{
+    color: #7b7b7b;
+}
+
+.btnSubmit {
+    background-color: #222;
+    color: #fff;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5;
+    border-radius: 5px;
+    width: 150px;
+    margin-top: 20px;
+    height: 40px;
+}
+
+.btnSubmit:hover {
+    color: #ffbb33;
+}

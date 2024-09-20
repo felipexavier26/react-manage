@@ -1,0 +1,13 @@
+/* styles.css */
+.container-newprotect {
+    width: 450px;
+    padding: 3em;
+    margin: 0 auto;
+}
+
+.newprotect-container h1 {
+    margin-bottom: 1.5em;
+}
+.newprotect-container p {
+    color: #7b7b7b;
+}

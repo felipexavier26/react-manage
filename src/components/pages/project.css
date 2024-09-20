@@ -1,0 +1,69 @@
+.container-project {
+    width: 80%;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.project-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.project-table th,
+.project-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.project-table th {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.project-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.project-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+.project-table th,
+.project-table td {
+    padding: 12px 15px;
+}
+
+.project-table td {
+    color: #555;
+}
+
+.project-table tr td[colspan="4"] {
+    text-align: center;
+    color: #888;
+    font-style: italic;
+}
+
+.edit, .delete{
+    cursor: pointer;
+}
+
+.success-message{
+    text-align: center;
+    color: #333;
+    padding: 10px;
+    width: 30%;
+    margin: auto;
+    border-radius: 5px;
+}
+.msgTitle{
+    text-align: center;
+}
+
