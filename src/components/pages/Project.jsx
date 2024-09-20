@@ -45,6 +45,8 @@ function Project() {
                 })
                 .catch(error => {
                     console.log(error);
+                    setLoadingremove(true); 
+                    alert('Erro ao carregar projetos. Tente novamente mais tarde.');
                 });
             handleClose();
         }
