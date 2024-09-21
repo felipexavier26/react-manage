@@ -4,6 +4,10 @@
 Este é um aplicativo de gerenciamento de projetos desenvolvido em React. Ele permite criar, editar, atualizar e deletar projetos, utilizando uma API local para consumir dados. O projeto foi estruturado com o React Router para navegação, Axios para comunicação com a API e um modal para confirmação de exclusão.
 
 
+<h1>Link do Projeto</h1>
+<a href="https://react-manage-one.vercel.app/" rel="nofollow"><strong>➥ Projeto</strong></a></p>
+
+
 <h1>Funcionalidades</h1>
 <li><strong>Criar Projeto:</strong>Adicione novos projetos com título, descrição e outras informações.</li>
 <li><strong>Editar Projeto:</strong>Atualize detalhes de um projeto existente.</li>
