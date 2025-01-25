@@ -34,6 +34,11 @@ Este é um aplicativo de gerenciamento de projetos desenvolvido em React. Ele pe
 
 
 
+![image](https://github.com/user-attachments/assets/d86f8dce-46d5-402c-9122-3adeeec1d42f)
+
+
+
+
 </div>
 
 
